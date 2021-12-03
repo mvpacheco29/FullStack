@@ -1,0 +1,16 @@
+C:\Users\mvpac\Documents\FullStack\GameTOP\bin\Debug\net5.0\GameTOP.exe
+C:\Users\mvpac\Documents\FullStack\GameTOP\bin\Debug\net5.0\GameTOP.deps.json
+C:\Users\mvpac\Documents\FullStack\GameTOP\bin\Debug\net5.0\GameTOP.runtimeconfig.json
+C:\Users\mvpac\Documents\FullStack\GameTOP\bin\Debug\net5.0\GameTOP.runtimeconfig.dev.json
+C:\Users\mvpac\Documents\FullStack\GameTOP\bin\Debug\net5.0\GameTOP.dll
+C:\Users\mvpac\Documents\FullStack\GameTOP\bin\Debug\net5.0\ref\GameTOP.dll
+C:\Users\mvpac\Documents\FullStack\GameTOP\bin\Debug\net5.0\GameTOP.pdb
+C:\Users\mvpac\Documents\FullStack\GameTOP\obj\Debug\net5.0\GameTOP.csproj.AssemblyReference.cache
+C:\Users\mvpac\Documents\FullStack\GameTOP\obj\Debug\net5.0\GameTOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvpac\Documents\FullStack\GameTOP\obj\Debug\net5.0\GameTOP.AssemblyInfoInputs.cache
+C:\Users\mvpac\Documents\FullStack\GameTOP\obj\Debug\net5.0\GameTOP.AssemblyInfo.cs
+C:\Users\mvpac\Documents\FullStack\GameTOP\obj\Debug\net5.0\GameTOP.csproj.CoreCompileInputs.cache
+C:\Users\mvpac\Documents\FullStack\GameTOP\obj\Debug\net5.0\GameTOP.dll
+C:\Users\mvpac\Documents\FullStack\GameTOP\obj\Debug\net5.0\ref\GameTOP.dll
+C:\Users\mvpac\Documents\FullStack\GameTOP\obj\Debug\net5.0\GameTOP.pdb
+C:\Users\mvpac\Documents\FullStack\GameTOP\obj\Debug\net5.0\GameTOP.genruntimeconfig.cache
